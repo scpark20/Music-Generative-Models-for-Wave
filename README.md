@@ -1,2 +1,2 @@
 # Music-Generative-Models-for-Wave
-Slide Material About Music Generative Models for Wave
+Slides About Music Generative Models for Wave
